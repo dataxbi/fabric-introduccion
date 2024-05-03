@@ -19,3 +19,10 @@ Materiales usados en nuestras charlas introductorias a Microsoft Fabric.
  
   [Vídeo en YouTube](https://youtu.be/wgWWrOgnu1o)
 
+
+- Introducción a Fabric - Lakehouse 2da parte (Directos de los jueves 2024-05-02)
+
+  [Diapositivas](presentaciones/Introduccion%20a%20Fabric%20-%20Lakehouse%20%202da%20parte%202024-05-02.pdf)
+ 
+  [Vídeo en YouTube](https://youtu.be/26ivp1W-A7Y)
+
