@@ -26,3 +26,9 @@ Materiales usados en nuestras charlas introductorias a Microsoft Fabric.
  
   [Vídeo en YouTube](https://youtu.be/26ivp1W-A7Y)
 
+
+- Introducción a Fabric - Warehouse (Directos de los jueves 2024-05-16)
+
+  [Diapositivas](presentaciones/Introduccion%20a%20Fabric%20-%20Warehouse%202024-05-16.pdf)
+ 
+  [Vídeo en YouTube](https://youtu.be/uPOqGpDxY-I)
