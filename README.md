@@ -32,3 +32,8 @@ Materiales usados en nuestras charlas introductorias a Microsoft Fabric.
   [Diapositivas](presentaciones/Introduccion%20a%20Fabric%20-%20Warehouse%202024-05-16.pdf)
  
   [Vídeo en YouTube](https://youtu.be/uPOqGpDxY-I)
+
+- Almacenamiento en Fabric ¿Lakehouse o Warehouse? - Power Platform Mardrid 2024  (2024-05-25) 
+  
+  [Diapositivas](presentaciones/PPM2024%20Fabric%20almacenamiento%20Lakehouse%20o%20Warehouse.pdf)
+  
