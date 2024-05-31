@@ -37,3 +37,8 @@ Materiales usados en nuestras charlas introductorias a Microsoft Fabric.
   
   [Diapositivas](presentaciones/PPM2024%20Fabric%20almacenamiento%20Lakehouse%20o%20Warehouse.pdf)
   
+- Introducción a Fabric - Warehouse 2da parte (Directos de los jueves 2024-05-30)
+
+  [Diapositivas](presentaciones/Introduccion%20a%20Fabric%20-%20Warehouse%202da%20parte%202024-05-30.pdf)
+ 
+  [Vídeo en YouTube](https://youtu.be/li_DALkTMRo)
