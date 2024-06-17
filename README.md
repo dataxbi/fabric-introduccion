@@ -42,3 +42,9 @@ Materiales usados en nuestras charlas introductorias a Microsoft Fabric.
   [Diapositivas](presentaciones/Introduccion%20a%20Fabric%20-%20Warehouse%202da%20parte%202024-05-30.pdf)
  
   [Vídeo en YouTube](https://youtu.be/li_DALkTMRo)
+
+- Introducción a Fabric - Flujos de Datos Gen2 (Directos de los jueves 2024-06-13)
+
+  [Diapositivas](presentaciones/Introduccion%20a%20Fabric%20-%20Flujos%20Datos%20Gen2%202024-06-13.pdf)
+ 
+  [Vídeo en YouTube](https://youtu.be/AFhEJ8H-Vzc)
