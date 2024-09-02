@@ -48,3 +48,9 @@ Materiales usados en nuestras charlas introductorias a Microsoft Fabric.
   [Diapositivas](presentaciones/Introduccion%20a%20Fabric%20-%20Flujos%20Datos%20Gen2%202024-06-13.pdf)
  
   [Vídeo en YouTube](https://youtu.be/AFhEJ8H-Vzc)
+
+- Introducción a Fabric - Canalizaciones
+
+  [Diapositivas](presentaciones/Introduccion%20a%20Fabric%20-%20Canalizaciones.pdf)
+ 
+  [Vídeo en YouTube](https://youtu.be/ns7fBk3XzE8)
